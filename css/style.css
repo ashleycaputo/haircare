@@ -68,11 +68,11 @@ h1 {
  		}
  		section {
  			background-color: black;
- 			margin: 110px;
- 			padding: 110px;
+ 			margin: 150px;
+ 			padding: 150px;
  		}
  		.wrapper {
- 			max-width: 40%;
+ 			max-width: 90%;
  			border: solid 2px;
  			margin: 0 auto;
  		}
