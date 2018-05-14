@@ -73,7 +73,8 @@ h1 {
  		}
  		.wrapper {
  			max-width: 90%;
- 			border: solid 2px;
+ 			border: solid 4px;
+ 			background-color: #E6E8E6;
  			margin: 0 auto;
  		}
  		article {
