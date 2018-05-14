@@ -68,12 +68,10 @@ h1 {
  		}
  		section {
  			background-color: black;
- 			margin: 100px;
- 			padding: 100px;
  		}
  		.wrapper {
- 			max-width: 50%;
- 			border: solid 4px;
+ 			max-width: 70%;
+ 			border: solid 6px;
  			background-color: #E6E8E6;
  			margin: 0 auto;
  		}
